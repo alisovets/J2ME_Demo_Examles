@@ -1,0 +1,5 @@
+-libraryjars C:\WTK2.5.2_01\lib\midpapi20.jar;C:\WTK2.5.2_01\lib\cldcapi11.jar
+-injars C:\Documents and Settings\Admin\j2mewtk\2.5.2\apps\Simple3dDemo\bin\Simple3dDemo.jar
+-outjar C:\DOCUME~1\Admin\LOCALS~1\Temp\Simple3dDemo.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 
+-dontusemixedcaseclassnames
