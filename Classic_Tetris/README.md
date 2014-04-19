@@ -4,8 +4,8 @@ This midlet is a clone of the classic game.
 The game is suitable for mobile phones that support CLDC1.1 and MIDP2.0 specifications.
 
 
-![Screenshot](Screenshots/screen1.png?raw=true) ![Screenshot](Screenshots/screen5.png?raw=true)  
-![Screenshot](Screenshots/screen2.png?raw=true) ![Screenshot](Screenshots/screen3.png?raw=true)
+![Screenshot](Screenshots/screen1.PNG?raw=true) ![Screenshot](Screenshots/screen5.PNG?raw=true)  
+![Screenshot](Screenshots/screen2.PNG?raw=true) ![Screenshot](Screenshots/screen3.PNG?raw=true)
 
 The app was developed in 2007.
 
